@@ -1,0 +1,123 @@
+[
+  {
+    "clave_alu": 11030172,
+    "ap_paterno": "BORBOLLA",
+    "ap_materno": "RAMOS",
+    "nombre": "ARGELIA",
+    "sexo": "F",
+    "ciudad": "QUERETARO",
+    "email": "argi_gogos@email.com",
+    "calificacion": 5.0
+  },
+  {
+    "clave_alu": 11030173,
+    "ap_paterno": "CASTRO",
+    "ap_materno": "MANCERA",
+    "nombre": "KARLA MARIANA",
+    "sexo": "F",
+    "ciudad": "GUADALAJARA",
+    "calificacion": 8.7
+  },
+  {
+    "clave_alu": 11030177,
+    "ap_paterno": "FERRUSCA",
+    "ap_materno": "ANDRADE",
+    "nombre": "OCTAVIO",
+    "sexo": "M",
+    "ciudad": "SANTIAGO DE QUERETARO",
+    "email": "tavoferrus_11@email.com",
+    "calificacion": 7.3
+  },
+  {
+    "clave_alu": 11030178,
+    "ap_paterno": "GARCIA",
+    "ap_materno": "GOMEZ",
+    "nombre": "RAFAEL",
+    "sexo": "M",
+    "ciudad": "QUERETARO QRO.",
+    "calificacion": 5
+  },
+  {
+    "clave_alu": 11030180,
+    "ap_paterno": "GUTIERREZ",
+    "ap_materno": "FLORES",
+    "nombre": "CARLOS DAVID",
+    "sexo": "M",
+    "curp": "GUFC920124HPPTLR04",
+    "ciudad": "QUERETARO",
+    "email": "chorok_skp91@email.com",
+    "calificacion": 5
+  },
+  {
+    "clave_alu": 11030183,
+    "ap_paterno": "JIMENEZ",
+    "ap_materno": "CARRILLO",
+    "nombre": "RAMON HUMBERTO",
+    "curp": "JICR920403HSPMRM07",
+    "sexo": "F",
+    "ciudad": "GUADALAJARA",
+    "email": "ramono555@himail.com",
+    "calificacion": 6.2
+  },
+  {
+    "clave_alu": 11030188,
+    "ap_paterno": "MARTINEZ",
+    "ap_materno": "RIVERA",
+    "nombre": "JAVIER JOSUE",
+    "sexo": "M",
+    "curp": "MARJ930622HQTRVV01",
+    "email": "marka@email.com",
+    "calificacion": 8
+  },
+  {
+    "clave_alu": 11030199,
+    "ap_paterno": "ROSALES",
+    "ap_materno": "APREZA",
+    "nombre": "NESTOR MARTIN",
+    "sexo": "M",
+    "ciudad": "QUERETARO",
+    "email": "nestoriwh@hotmai.com",
+    "calificacion": 5
+  },
+  {
+    "clave_alu": 11030201,
+    "ap_paterno": "SUAREZ",
+    "ap_materno": "SANCHEZ",
+    "nombre": "ROCIO",
+    "sexo": "F",
+    "curp": "SUSO911025MDFRNS02",
+    "ciudad": "QUERETARO",
+    "email": "ossuarez@aol.com",
+  },
+  {
+    "clave_alu": 11030204,
+    "ap_paterno": "VAZQUEZ",
+    "ap_materno": "GONZALEZ",
+    "nombre": "ROBERTO",
+    "curp": "VAGR900708HQTRNS02",
+    "ciudad": "QUERETARO",
+    "email": "rob_vaz03@email.com",
+    "calificacion": 9.7
+  },
+  {
+    "clave_alu": 14080001,
+    "ap_paterno": "MEJIA",
+    "ap_materno": "JIMENEZ",
+    "nombre": "LUISA",
+    "calificacion": 5
+  },
+  {
+    "clave_alu": 14080002,
+    "ap_paterno": "MEJIA",
+    "ap_materno": "JIMENEZ",
+    "nombre": "LUISA",
+    "calificacion": 5
+  },
+  {
+    "clave_alu": 14080003,
+    "ap_paterno": "MEJIA",
+    "ap_materno": "JIMENEZ",
+    "nombre": "LUISA",
+    "calificacion": 5
+  }
+]

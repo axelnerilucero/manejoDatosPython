@@ -1,0 +1,11 @@
+index,no_cuenta,nombres,apellido_paterno,fecha_nacimiento,estatura
+0,1A,Juan,Lopez,2001-01-01,1.78
+1,1GG,Maria,Paterno 1,2001-03-20,1.60
+2,21OL,Donna,River,2002-01-09,1.69
+3,2GG,Maria,Paterno 2,2001-03-20,1.62
+4,3B,Perla,Calles,2001-01-20,1.60
+5,4A,Carlos,Madero,2001-01-01,1.68
+6,574,Pedro,Paterno 5,2022-01-31,1.60
+7,6C,Jesus,Garcia,2001-03-20,1.65
+8,7B,Gema,None,2001-03-20,1.53
+9,A744,Amaro,Garcia,2001-09-23,1.83
